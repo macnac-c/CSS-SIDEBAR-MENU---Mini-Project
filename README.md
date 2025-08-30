@@ -27,4 +27,12 @@ A responsive sidebar navigation menu built with HTML5, CSS3, and Font Awesome. F
 - HTML5  
 - CSS3  
 - Font Awesome  
-- Google Fonts (Poppins)  
+- Google Fonts (Poppins)
+  
+---
+
+## <u>Live Demo</u>
+
+Check out the working sidebar project here:  
+[Live Demo url](https://macnac-c.github.io/CSS-SIDEBAR-MENU---Mini-Project/)
+
