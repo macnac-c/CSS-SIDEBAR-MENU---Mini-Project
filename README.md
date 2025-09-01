@@ -34,5 +34,14 @@ A responsive sidebar navigation menu built with HTML5, CSS3, and Font Awesome. F
 ## <u>Live Demo</u>
 
 Check out the working sidebar project here:  
-[Live Demo url](https://macnac-c.github.io/CSS-SIDEBAR-MENU---Mini-Project/)
+https://macnac-c.github.io/CSS-SIDEBAR-MENU---Mini-Project/
 
+---
+
+## <u>Screenshots</u>
+
+### Sidebar Open
+![Sidebar Open](images/ss1.png)
+
+### Sidebar Closed
+![Sidebar Closed](images/SS2.png)
