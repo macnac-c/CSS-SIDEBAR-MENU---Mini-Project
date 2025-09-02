@@ -45,3 +45,8 @@ https://macnac-c.github.io/CSS-SIDEBAR-MENU---Mini-Project/
 
 ### Sidebar Closed
 ![Sidebar Closed](images/SS2.png)
+
+
+## Note 
+🔹 This project is currently **optimized for desktop view**.  
+🔹 Mobile view may not display correctly. 
